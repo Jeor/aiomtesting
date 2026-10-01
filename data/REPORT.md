@@ -63,5 +63,3 @@ No p95 headline or overall winner is reported with this sample size. More balanc
 - [Execution manifest](execution-manifest.json): scope and hashes.
 
 The report and exported traces omit account URLs, request credentials, and raw provider headers. An interactive presentation of this dataset is available at [AIOMetadata Search Lab](https://jeor.github.io/aiomtesting/).
-
-Cleanup completed: all eight temporary containers and the test network were removed, along with the private data/configuration copies on the server. Production AIOMetadata remains running.

@@ -17,6 +17,5 @@
     "runner/instrument.cjs": "23f389104b315801605956ab3f7876d2bb9523e2113565c04b226d3f46cfc9d3",
     "run-2026-10-01/main-block-0.jsonl": "54bf086b459c6ab5c1d02db56e0af315bd5170d7a582d68f177891c6aaabb3b9",
     "run-2026-10-01/parity.jsonl": "0a617304ed359542ce7af48cdfab4d873dc1cd4b47c4d602067652bcbf8415e0"
-  },
-  "cleanup": "temporary containers, network, and private server data removed"
+  }
 }
