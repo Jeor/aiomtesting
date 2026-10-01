@@ -8,7 +8,9 @@ This exploratory run contains 168 searches: the same 14 movie and 14 show querie
 
 ## Versioned Lumiere rerun
 
-The dashboard now defaults to Lumiere build `0702a05` and retains an **Original** selector. The original build was not recorded. The same 28 queries were repeated through AIOMetadata 3.3.2; the other providers retain their original results. The before/after panel compares the runs, with timing limitations stated beside it. [Rerun report and downloads](data/lumiere-0702a05/REPORT.md).
+The dashboard displays seven runs across six providers, keeping **Lumiere · original** and **Lumiere · sha-0702a05** separate in every graph. The original Lumiere build was not recorded. The same 28 queries were repeated through AIOMetadata 3.3.2; the other providers retain their original results. [Rerun report and downloads](data/lumiere-0702a05/REPORT.md).
+
+[Head-to-head comparison](https://jeor.github.io/aiomtesting/compare.html) lets readers select up to three runs. All charts and query rows on that screen follow the selected runs; selections and main filters are shareable through the URL. Timing populations use only those selected runs. The all-runs CSV includes all 196 observations and explicit run-version labels.
 
 ## Read the evidence
 
