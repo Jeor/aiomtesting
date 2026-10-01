@@ -63,3 +63,7 @@ No p95 headline or overall winner is reported with this sample size. More balanc
 - [Execution manifest](execution-manifest.json): scope and hashes.
 
 The report and exported traces omit account URLs, request credentials, and raw provider headers. An interactive presentation of this dataset is available at [AIOMetadata Search Lab](https://jeor.github.io/aiomtesting/).
+
+## Supplemental category review
+
+[Read the subsequent relevance review](RELEVANCE-REVIEW.md) for alias, franchise and invented-query outcomes from these same saved responses. These separate outcomes do not change the original headline scores above.

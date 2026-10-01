@@ -13,3 +13,20 @@ header{min-height:76px;max-width:none;padding:0 32px;background:var(--bg)}
 .search-coverage{border:1px solid var(--line);border-radius:10px;margin:0 0 20px;padding:0}.search-coverage>summary{padding:13px 18px;font-size:14px;color:var(--heading)}.search-coverage>summary span{font-size:12px;font-weight:400;color:var(--muted);margin-left:12px}.search-coverage>p,.coverage-gap{margin:16px 18px;font-size:13px}.search-coverage>.scroll{margin:0 18px}.search-coverage td small{display:block;color:var(--muted);margin-top:4px}.coverage-gap{padding:14px 16px;background:#19191c;border-left:2px solid var(--accent);border-radius:4px}.coverage-gap p{margin-bottom:0}.table-tools{flex-wrap:wrap}.table-tools .segments{flex:none}.table-tools label{white-space:nowrap}.explorer-note{font-size:12px!important;margin:0 0 14px!important}.comparison{min-width:1020px;table-layout:fixed}.comparison th:first-child{width:240px}.comparison tbody th{white-space:normal;text-align:left;background:var(--surface);position:sticky;left:0;z-index:1}.comparison th strong{font-size:13px;color:var(--heading);font-weight:550}.comparison th small{display:block;font-size:11px;color:var(--muted);font-weight:400}.comparison td{padding:4px;vertical-align:top}.comparison-cell{display:block;width:100%;min-height:68px;border:0;background:none;text-align:left;font-size:11px;padding:10px 6px}.comparison-cell small{display:block;color:var(--muted);margin-top:6px;font-variant-numeric:tabular-nums}.comparison-cell .match{color:var(--accent)}.comparison-cell .neutral{color:var(--text)}.comparison-cell:hover{background:#242429}.target-info{font-size:10px;padding:5px 0 0;border:0}.target-info summary{font-weight:400;color:var(--muted)}.target-info small{padding-top:5px}.compare-scroll{border-top:1px solid var(--line)}@media(max-width:760px){.comparison th:first-child{width:160px}.comparison{min-width:940px}.search-coverage>summary span{display:block;margin:3px 0 0}.table-tools .segments{width:100%}.table-tools .segments button{font-size:12px}.comparison tbody th{position:static}}
 
 .table-tools .segments button{white-space:nowrap}
+
+/* Bounded table viewport keeps both column labels and query context in view. */
+.compare-scroll{max-height:68vh;overflow:auto;position:relative;isolation:isolate;scrollbar-gutter:stable;border:1px solid var(--line);border-radius:8px}
+#query-table{border-collapse:separate;border-spacing:0}
+#query-table thead th{position:sticky;top:0;z-index:3;background:#202024;box-shadow:0 1px 0 var(--line);white-space:nowrap}
+#query-table.comparison{min-width:0;width:max-content;min-width:100%;table-layout:auto}
+#query-table.comparison th:first-child{min-width:220px;max-width:260px}
+#query-table.comparison td{min-width:130px}
+#query-table.comparison thead th:first-child{left:0;z-index:4}
+#query-table.comparison tbody th{position:sticky;left:0;z-index:2;box-shadow:1px 0 0 var(--line)}
+#provider-picker{display:flex;flex-wrap:wrap;gap:10px 18px;border:0;padding:0;margin:12px 0 18px;font-size:12px}
+#provider-picker legend{color:var(--muted);margin-bottom:10px}
+#provider-picker label{display:flex;align-items:center;gap:6px;cursor:pointer}
+#provider-picker input{width:15px;height:15px;accent-color:var(--accent)}
+.score-filter{font-size:12px;display:flex;gap:10px;align-items:center;margin-bottom:14px}
+.intended-target{margin-top:7px!important;line-height:1.5}.review-label{margin-top:7px;color:var(--accent)!important;font-size:10px!important}
+@media(max-width:760px){#query-table.comparison th:first-child{min-width:130px;max-width:150px}#query-table.comparison td{min-width:130px}.compare-scroll{max-height:65vh}}
