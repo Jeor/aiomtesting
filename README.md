@@ -14,7 +14,7 @@ This exploratory run contains 168 searches: the same 14 movie and 14 show querie
 - [Detailed results and request ledger](data/results.json)
 - [Execution manifest](data/execution-manifest.json)
 
-The site supports media/category filters, top-1/5/10 scoring, timing comparisons with and without empty responses, category heatmaps, request-service breakdowns, and individual-query inspection. Filters are saved in the URL for sharing. Alias, franchise, and negative queries are visible but excluded from headline title accuracy because their relevance labels need review. Unmapped native identifiers are flagged.
+The site supports media/category filters, top-1/5/10 and any-returned-position scoring, timing comparisons with and without empty responses, category heatmaps, individual timing distributions, metadata field coverage, request-service breakdowns, and individual-query inspection. Filters are saved in the URL for sharing. Alias, franchise, and negative queries are visible but excluded from headline title accuracy because their relevance labels need review. Unmapped native identifiers are flagged.
 
 ## Run locally
 
@@ -31,3 +31,5 @@ Open http://localhost:8767. GitHub Pages serves the root of `main`.
 This is one balanced block, not the full proposed 1,680-search corpus. Caches were isolated by provider and evolved normally. No trailer feature ablation was run. Stage timings overlap and cannot be subtracted to infer a trailers-off or enrichment-off response time. Do not use these small samples to claim a universal winner.
 
 AIOMetadata is created by [cedya77](https://github.com/cedya77/aiometadata). This is an independent community test, not an official benchmark.
+
+The timing selector also offers a common-success subset: the same queries where every provider found the target at the chosen cutoff. This is a matched descriptive comparison, but excludes harder queries that some providers missed. Any-position scoring checks only the saved first response, whose result limit differs by provider.
