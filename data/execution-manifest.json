@@ -1,0 +1,22 @@
+{
+  "run_id": "2026-10-01-isolated-full-pipeline",
+  "main_attempts": 168,
+  "queries_per_media_per_provider": 14,
+  "full_proposed_corpus_run": false,
+  "production_version": "3.3.2",
+  "image_id": "sha256:c7f4e69530205acc3949ba637a2078f81dd2c562b2d87f10f32cabb5e66bdcf0",
+  "deployed_commit": "unknown; image pinned",
+  "outbound_attempts": 1295,
+  "main_outbound_attempts": 809,
+  "parity_matches": 4,
+  "restart_cohort": "final 3 queries per provider after coordinated restart with disk/Redis retained",
+  "sha256": {
+    "cases.json": "5d0ddf55841b505e7280f991c10719150ec5d92776630dfc34dff3df56bbb196",
+    "runner/run-plan.json": "535599456911d7d761be92ab6cd0fd25a7bb0438bebf25b8c07e9e89e1162fb3",
+    "runner/analyze.py": "3539223e6860b8b02a31ac5163d60d3d93e7d74db267b389d46143e0c2a0273a",
+    "runner/instrument.cjs": "23f389104b315801605956ab3f7876d2bb9523e2113565c04b226d3f46cfc9d3",
+    "run-2026-10-01/main-block-0.jsonl": "54bf086b459c6ab5c1d02db56e0af315bd5170d7a582d68f177891c6aaabb3b9",
+    "run-2026-10-01/parity.jsonl": "0a617304ed359542ce7af48cdfab4d873dc1cd4b47c4d602067652bcbf8415e0"
+  },
+  "cleanup": "temporary containers, network, and private server data removed"
+}
