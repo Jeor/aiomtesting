@@ -30,3 +30,5 @@ header{min-height:76px;max-width:none;padding:0 32px;background:var(--bg)}
 .score-filter{font-size:12px;display:flex;gap:10px;align-items:center;margin-bottom:14px}
 .intended-target{margin-top:7px!important;line-height:1.5}.review-label{margin-top:7px;color:var(--accent)!important;font-size:10px!important}
 @media(max-width:760px){#query-table.comparison th:first-child{min-width:130px;max-width:150px}#query-table.comparison td{min-width:130px}.compare-scroll{max-height:65vh}}
+
+.run-picker{display:flex;gap:12px 22px;align-items:center;flex-wrap:wrap;margin:16px 0 8px;font-size:12px}.run-picker label{display:flex;gap:10px;align-items:center}.run-picker>span{color:var(--muted)}#query-head th small{display:block;color:var(--accent);font-size:10px}

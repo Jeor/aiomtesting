@@ -6,6 +6,10 @@ An independent, interactive comparison of search providers inside AIOMetadata.
 
 This exploratory run contains 168 searches: the same 14 movie and 14 show queries across SIMKL, TVDB, TMDB, IMDb, Lumiere DB, and MDBList. Timings include normal metadata enrichment; they are not standalone provider API benchmarks or Odin rendering measurements.
 
+## Versioned Lumiere rerun
+
+The dashboard now defaults to Lumiere build `0702a05` and retains an **Original** selector. The original build was not recorded. The same 28 queries were repeated through AIOMetadata 3.3.2; the other providers retain their original results. The before/after panel compares the runs, with timing limitations stated beside it. [Rerun report and downloads](data/lumiere-0702a05/REPORT.md).
+
 ## Read the evidence
 
 - [Full report and limitations](data/REPORT.md)

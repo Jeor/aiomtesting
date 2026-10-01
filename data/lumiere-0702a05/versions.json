@@ -1,0 +1,10 @@
+{
+  "aiometadata": "3.3.2",
+  "aiometadata_image": "sha256:c7f4e69530205acc3949ba637a2078f81dd2c562b2d87f10f32cabb5e66bdcf0",
+  "lumiere_revision": "0702a05027889395feee1905eae1a879a34acdf1",
+  "lumiere_image": "sha256:1e80e45997da54dbcbee40a6a7b0942c2dc453c7b81ab27dab2fe56d9a0bea55",
+  "lumiere_tag": "latest",
+  "lumiere_created_utc": "2026-10-01T20:18:43.750Z",
+  "database_snapshot": "unrecorded",
+  "baseline_lumiere_build": "unrecorded"
+}

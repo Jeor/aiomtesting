@@ -1,0 +1,29 @@
+provider_label,media_type,case_id,query,category,relevance_review_required,primary_attempt,valid_response,ms,count,target_rank,hit1,hit5,hit10,unresolved_top5,outbound_calls,http_error_calls,post_response_completions,lookup_stage_executed
+Lumiere DB,movie,movie-140,An Extremely Unlikely Lantern Tribunal,negative,True,True,True,70.067344,0,,False,False,False,False,1,0,0,True
+Lumiere DB,movie,movie-082,Mad Max Fury Road,format,False,True,True,165.24356500000022,1,1,True,True,True,False,3,0,0,True
+Lumiere DB,movie,movie-036,Moon,exact,False,True,True,181.4992199999997,11,1,True,True,True,False,23,0,0,True
+Lumiere DB,movie,movie-058,Mad Max: Fury Raod,typo,False,True,True,48.19865299999947,1,1,True,True,True,False,2,0,0,True
+Lumiere DB,movie,movie-060,Coherance,typo,False,True,True,98.29822199999944,2,1,True,True,True,False,5,0,0,True
+Lumiere DB,movie,movie-124,Harry Potter movies,franchise,True,True,True,97.64688899999965,0,,False,False,False,False,2,0,0,True
+Lumiere DB,movie,movie-037,Coherence,exact,False,True,True,43.49859600000127,1,1,True,True,True,False,2,0,0,True
+Lumiere DB,movie,movie-117,Cidade de Deus,alias,True,True,True,89.01679299999887,2,1,True,True,True,False,5,0,0,True
+Lumiere DB,movie,movie-075,Blade Runner 2049 2017,year,False,True,True,118.58608200000162,1,1,True,True,True,False,3,0,0,True
+Lumiere DB,movie,movie-091,LOTR,abbreviation,False,True,True,97.29061300000103,8,1,True,True,True,False,12,0,0,True
+Lumiere DB,movie,movie-028,City of God,exact,False,True,True,91.50496199999907,4,1,True,True,True,False,7,0,0,True
+Lumiere DB,movie,movie-110,Lives of Others,partial,False,True,True,85.31211600000097,1,1,True,True,True,False,3,0,0,True
+Lumiere DB,movie,movie-076,Blade Runner 2049 (2017),year,False,True,True,42.79855800000223,1,1,True,True,True,False,2,0,0,True
+Lumiere DB,movie,movie-034,The Handmaiden,exact,False,True,True,98.42479199999798,1,1,True,True,True,False,3,0,0,True
+Lumiere DB,series,series-116,Broen,alias,True,True,True,134.57847500000207,5,1,True,True,True,False,11,0,0,True
+Lumiere DB,series,series-130,The Walking Dead shows,franchise,True,True,True,21.772836999996798,0,,False,False,False,False,1,0,0,True
+Lumiere DB,series,series-138,Bicycle Kingdom of the Silver Turnip,negative,True,True,True,50.24379799999588,0,,False,False,False,False,1,0,0,True
+Lumiere DB,series,series-107,Halt and Catch,partial,False,True,True,133.26230500000383,1,1,True,True,True,False,3,0,0,True
+Lumiere DB,series,series-016,Schitt's Creek,exact,False,True,True,114.01119599999947,1,1,True,True,True,False,3,0,0,True
+Lumiere DB,series,series-024,Money Heist,exact,False,True,True,112.69604700000491,3,1,True,True,True,False,7,0,0,True
+Lumiere DB,series,series-087,Its Always Sunny in Philadelphia,format,False,True,True,62.846357999995234,1,1,True,True,True,False,3,0,0,True
+Lumiere DB,series,series-057,Squid Gmae,typo,False,True,True,116.13039099999878,1,1,True,True,True,False,3,0,0,True
+Lumiere DB,series,series-077,Dark 2017,year,False,True,True,149.11412700000074,4,1,True,True,True,False,9,0,0,True
+Lumiere DB,series,series-097,SVU,abbreviation,False,True,True,105.7048350000041,1,1,True,True,True,False,3,0,0,True
+Lumiere DB,series,series-030,Spiral,exact,False,True,True,134.51292000000103,6,1,True,True,True,False,13,0,0,True
+Lumiere DB,series,series-017,It's Always Sunny in Philadelphia,exact,False,True,True,40.39532400000462,1,1,True,True,True,False,2,0,0,True
+Lumiere DB,series,series-050,Avatar: The Last Airbnder,typo,False,True,True,165.64388999999937,2,1,True,True,True,False,5,0,0,True
+Lumiere DB,series,series-072,Doctor Who (1963),year,False,True,True,109.6791630000007,1,1,True,True,True,False,3,0,0,True

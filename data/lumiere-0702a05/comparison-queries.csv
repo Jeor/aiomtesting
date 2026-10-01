@@ -1,0 +1,169 @@
+provider_label,media_type,case_id,query,category,relevance_review_required,primary_attempt,valid_response,ms,count,target_rank,hit1,hit5,hit10,unresolved_top5,outbound_calls,http_error_calls,post_response_completions,lookup_stage_executed,run_version
+SIMKL,movie,movie-140,An Extremely Unlikely Lantern Tribunal,negative,True,True,True,238.988359,0,,False,False,False,False,1,0,0,True,original-version-unrecorded
+TVDB,movie,movie-140,An Extremely Unlikely Lantern Tribunal,negative,True,True,True,353.9789450000003,0,,False,False,False,False,1,0,0,True,original-version-unrecorded
+TMDB,movie,movie-140,An Extremely Unlikely Lantern Tribunal,negative,True,True,True,182.29803999999967,0,,False,False,False,False,1,0,0,True,original-version-unrecorded
+IMDb,movie,movie-140,An Extremely Unlikely Lantern Tribunal,negative,True,True,True,611.913184,0,,False,False,False,False,1,0,0,True,original-version-unrecorded
+Lumiere DB,movie,movie-140,An Extremely Unlikely Lantern Tribunal,negative,True,True,True,70.067344,0,,False,False,False,False,1,0,0,True,0702a05
+MDBList,movie,movie-140,An Extremely Unlikely Lantern Tribunal,negative,True,True,True,282.38259300000027,0,,False,False,False,False,1,0,0,True,original-version-unrecorded
+TVDB,movie,movie-082,Mad Max Fury Road,format,False,True,True,390.7999090000012,1,1,True,True,True,False,2,0,0,True,original-version-unrecorded
+TMDB,movie,movie-082,Mad Max Fury Road,format,False,True,True,101.24061200000142,1,1,True,True,True,False,2,0,0,True,original-version-unrecorded
+IMDb,movie,movie-082,Mad Max Fury Road,format,False,True,True,1005.345741000001,6,1,True,True,True,False,14,0,0,True,original-version-unrecorded
+Lumiere DB,movie,movie-082,Mad Max Fury Road,format,False,True,True,165.24356500000022,1,1,True,True,True,False,3,0,0,True,0702a05
+MDBList,movie,movie-082,Mad Max Fury Road,format,False,True,True,126.77088200000071,0,,False,False,False,False,1,0,0,True,original-version-unrecorded
+SIMKL,movie,movie-082,Mad Max Fury Road,format,False,True,True,380.61906400000225,2,1,True,True,True,False,2,0,0,True,original-version-unrecorded
+TMDB,movie,movie-036,Moon,exact,False,True,True,619.2557259999994,16,1,True,True,True,False,17,0,0,True,original-version-unrecorded
+IMDb,movie,movie-036,Moon,exact,False,True,True,740.2288520000002,7,2,False,True,True,False,15,0,0,True,original-version-unrecorded
+Lumiere DB,movie,movie-036,Moon,exact,False,True,True,181.4992199999997,11,1,True,True,True,False,23,0,0,True,0702a05
+MDBList,movie,movie-036,Moon,exact,False,True,True,621.8454530000017,30,6,False,False,True,False,2,0,0,True,original-version-unrecorded
+SIMKL,movie,movie-036,Moon,exact,False,True,True,442.50208900000143,20,9,False,False,True,False,5,0,0,True,original-version-unrecorded
+TVDB,movie,movie-036,Moon,exact,False,True,True,1331.406474000003,19,1,True,True,True,False,26,0,0,True,original-version-unrecorded
+IMDb,movie,movie-058,Mad Max: Fury Raod,typo,False,True,True,720.1877160000004,5,1,True,True,True,False,10,0,0,True,original-version-unrecorded
+Lumiere DB,movie,movie-058,Mad Max: Fury Raod,typo,False,True,True,48.19865299999947,1,1,True,True,True,False,2,0,0,True,0702a05
+MDBList,movie,movie-058,Mad Max: Fury Raod,typo,False,True,True,153.04751899999974,0,,False,False,False,False,1,0,0,True,original-version-unrecorded
+SIMKL,movie,movie-058,Mad Max: Fury Raod,typo,False,True,True,226.71761700000206,0,,False,False,False,False,1,0,0,True,original-version-unrecorded
+TVDB,movie,movie-058,Mad Max: Fury Raod,typo,False,True,True,141.2271400000027,1,1,True,True,True,False,1,0,0,True,original-version-unrecorded
+TMDB,movie,movie-058,Mad Max: Fury Raod,typo,False,True,True,70.80111799999577,0,,False,False,False,False,1,0,0,True,original-version-unrecorded
+Lumiere DB,movie,movie-060,Coherance,typo,False,True,True,98.29822199999944,2,1,True,True,True,False,5,0,0,True,0702a05
+MDBList,movie,movie-060,Coherance,typo,False,True,True,136.81034499999805,0,,False,False,False,False,1,0,0,True,original-version-unrecorded
+SIMKL,movie,movie-060,Coherance,typo,False,True,True,155.74553299999388,0,,False,False,False,False,1,0,0,True,original-version-unrecorded
+TVDB,movie,movie-060,Coherance,typo,False,True,True,437.7250570000033,3,1,True,True,True,False,14,0,0,True,original-version-unrecorded
+TMDB,movie,movie-060,Coherance,typo,False,True,True,63.165433999995,0,,False,False,False,False,1,0,0,True,original-version-unrecorded
+IMDb,movie,movie-060,Coherance,typo,False,True,True,2845.800958000007,6,1,True,True,True,False,14,0,0,True,original-version-unrecorded
+MDBList,movie,movie-124,Harry Potter movies,franchise,True,True,True,158.72397000000637,0,,False,False,False,False,1,0,0,True,original-version-unrecorded
+SIMKL,movie,movie-124,Harry Potter movies,franchise,True,True,True,206.53708800001186,1,,False,False,False,False,2,0,0,True,original-version-unrecorded
+TVDB,movie,movie-124,Harry Potter movies,franchise,True,True,True,144.80421100000967,0,,False,False,False,False,1,0,0,True,original-version-unrecorded
+TMDB,movie,movie-124,Harry Potter movies,franchise,True,True,True,142.65181999999913,1,,False,False,False,False,2,0,0,True,original-version-unrecorded
+IMDb,movie,movie-124,Harry Potter movies,franchise,True,True,True,896.9364319999877,2,,False,False,False,False,9,0,0,True,original-version-unrecorded
+Lumiere DB,movie,movie-124,Harry Potter movies,franchise,True,True,True,97.64688899999965,0,,False,False,False,False,2,0,0,True,0702a05
+SIMKL,movie,movie-037,Coherence,exact,False,True,True,310.4829940000054,6,1,True,True,True,False,6,0,0,True,original-version-unrecorded
+TVDB,movie,movie-037,Coherence,exact,False,True,True,755.4055640000006,1,1,True,True,True,False,27,1,0,True,original-version-unrecorded
+TMDB,movie,movie-037,Coherence,exact,False,True,True,101.50387200000114,1,1,True,True,True,False,2,0,0,True,original-version-unrecorded
+IMDb,movie,movie-037,Coherence,exact,False,True,True,729.498774000007,2,1,True,True,True,False,7,0,0,True,original-version-unrecorded
+Lumiere DB,movie,movie-037,Coherence,exact,False,True,True,43.49859600000127,1,1,True,True,True,False,2,0,0,True,0702a05
+MDBList,movie,movie-037,Coherence,exact,False,True,True,447.0237979999947,2,1,True,True,True,False,2,0,0,True,original-version-unrecorded
+TVDB,movie,movie-117,Cidade de Deus,alias,True,True,True,563.2460779999965,2,1,True,True,True,False,13,0,0,True,original-version-unrecorded
+TMDB,movie,movie-117,Cidade de Deus,alias,True,True,True,233.8104400000011,3,1,True,True,True,False,4,0,0,True,original-version-unrecorded
+IMDb,movie,movie-117,Cidade de Deus,alias,True,True,True,767.9740810000076,4,1,True,True,True,False,11,0,0,True,original-version-unrecorded
+Lumiere DB,movie,movie-117,Cidade de Deus,alias,True,True,True,89.01679299999887,2,1,True,True,True,False,5,0,0,True,0702a05
+MDBList,movie,movie-117,Cidade de Deus,alias,True,True,True,428.78390500000387,1,,False,False,False,False,2,0,0,True,original-version-unrecorded
+SIMKL,movie,movie-117,Cidade de Deus,alias,True,True,True,249.16204599999764,5,2,False,True,True,False,3,0,0,True,original-version-unrecorded
+TMDB,movie,movie-075,Blade Runner 2049 2017,year,False,True,True,49.78755199999432,0,,False,False,False,False,1,0,0,True,original-version-unrecorded
+IMDb,movie,movie-075,Blade Runner 2049 2017,year,False,True,True,1190.910401999994,3,1,True,True,True,False,11,0,0,True,original-version-unrecorded
+Lumiere DB,movie,movie-075,Blade Runner 2049 2017,year,False,True,True,118.58608200000162,1,1,True,True,True,False,3,0,0,True,0702a05
+MDBList,movie,movie-075,Blade Runner 2049 2017,year,False,True,True,130.00533399998676,0,,False,False,False,False,1,0,0,True,original-version-unrecorded
+SIMKL,movie,movie-075,Blade Runner 2049 2017,year,False,True,True,205.18339799999376,1,1,True,True,True,False,1,0,0,True,original-version-unrecorded
+TVDB,movie,movie-075,Blade Runner 2049 2017,year,False,True,True,316.0645539999823,1,1,True,True,True,False,3,0,0,True,original-version-unrecorded
+IMDb,movie,movie-091,LOTR,abbreviation,False,True,True,567.4126219999744,7,,False,False,False,False,16,0,0,True,original-version-unrecorded
+Lumiere DB,movie,movie-091,LOTR,abbreviation,False,True,True,97.29061300000103,8,1,True,True,True,False,12,0,0,True,0702a05
+MDBList,movie,movie-091,LOTR,abbreviation,False,True,True,140.4191630000132,0,,False,False,False,False,1,0,0,True,original-version-unrecorded
+SIMKL,movie,movie-091,LOTR,abbreviation,False,True,True,282.72851600000286,10,1,True,True,True,False,2,0,0,True,original-version-unrecorded
+TVDB,movie,movie-091,LOTR,abbreviation,False,True,True,522.1407499999914,5,,False,False,False,False,18,0,0,True,original-version-unrecorded
+TMDB,movie,movie-091,LOTR,abbreviation,False,True,True,385.05978999999934,14,1,True,True,True,False,12,0,0,True,original-version-unrecorded
+Lumiere DB,movie,movie-028,City of God,exact,False,True,True,91.50496199999907,4,1,True,True,True,False,7,0,0,True,0702a05
+MDBList,movie,movie-028,City of God,exact,False,True,True,499.44799100002274,5,1,True,True,True,False,2,0,0,True,original-version-unrecorded
+SIMKL,movie,movie-028,City of God,exact,False,True,True,462.25797199999215,10,1,True,True,True,False,7,0,0,True,original-version-unrecorded
+TVDB,movie,movie-028,City of God,exact,False,True,True,540.348765999981,7,7,False,False,True,False,13,0,0,True,original-version-unrecorded
+TMDB,movie,movie-028,City of God,exact,False,True,True,104.1323679999914,6,1,True,True,True,False,5,0,0,True,original-version-unrecorded
+IMDb,movie,movie-028,City of God,exact,False,True,True,647.8952359999821,6,1,True,True,True,False,12,0,0,True,original-version-unrecorded
+MDBList,movie,movie-110,Lives of Others,partial,False,True,True,476.0489710000111,2,1,True,True,True,False,2,0,0,True,original-version-unrecorded
+SIMKL,movie,movie-110,Lives of Others,partial,False,True,True,247.7394740000018,4,1,True,True,True,False,3,0,0,True,original-version-unrecorded
+TVDB,movie,movie-110,Lives of Others,partial,False,True,True,406.8201059999992,2,2,False,True,True,False,10,0,0,True,original-version-unrecorded
+TMDB,movie,movie-110,Lives of Others,partial,False,True,True,1544.5121240000008,2,1,True,True,True,False,5,0,0,True,original-version-unrecorded
+IMDb,movie,movie-110,Lives of Others,partial,False,True,True,788.437963000004,4,1,True,True,True,False,12,0,0,True,original-version-unrecorded
+Lumiere DB,movie,movie-110,Lives of Others,partial,False,True,True,85.31211600000097,1,1,True,True,True,False,3,0,0,True,0702a05
+SIMKL,movie,movie-076,Blade Runner 2049 (2017),year,False,True,True,197.57734099999652,1,1,True,True,True,False,1,0,0,True,original-version-unrecorded
+TVDB,movie,movie-076,Blade Runner 2049 (2017),year,False,True,True,105.0354159999988,1,1,True,True,True,False,1,0,0,True,original-version-unrecorded
+TMDB,movie,movie-076,Blade Runner 2049 (2017),year,False,True,True,78.64800100002321,0,,False,False,False,False,1,0,0,True,original-version-unrecorded
+IMDb,movie,movie-076,Blade Runner 2049 (2017),year,False,True,True,1097.863790000003,3,1,True,True,True,False,8,0,0,True,original-version-unrecorded
+Lumiere DB,movie,movie-076,Blade Runner 2049 (2017),year,False,True,True,42.79855800000223,1,1,True,True,True,False,2,0,0,True,0702a05
+MDBList,movie,movie-076,Blade Runner 2049 (2017),year,False,True,True,141.06715000001714,0,,False,False,False,False,1,0,0,True,original-version-unrecorded
+TVDB,movie,movie-034,The Handmaiden,exact,False,True,True,279.21137699999963,2,2,False,True,True,False,4,0,0,True,original-version-unrecorded
+TMDB,movie,movie-034,The Handmaiden,exact,False,True,True,91.47273499998846,1,1,True,True,True,False,2,0,0,True,original-version-unrecorded
+IMDb,movie,movie-034,The Handmaiden,exact,False,True,True,855.550424999994,3,1,True,True,True,False,9,0,0,True,original-version-unrecorded
+Lumiere DB,movie,movie-034,The Handmaiden,exact,False,True,True,98.42479199999798,1,1,True,True,True,False,3,0,0,True,0702a05
+MDBList,movie,movie-034,The Handmaiden,exact,False,True,True,500.4126830000023,4,1,True,True,True,False,2,0,0,True,original-version-unrecorded
+SIMKL,movie,movie-034,The Handmaiden,exact,False,True,True,225.13554299998214,6,1,True,True,True,False,5,0,0,True,original-version-unrecorded
+TMDB,series,series-116,Broen,alias,True,True,True,123.73067299998365,1,1,True,True,True,False,2,0,0,True,original-version-unrecorded
+IMDb,series,series-116,Broen,alias,True,True,True,481.99782499999856,1,1,True,True,True,False,3,0,0,True,original-version-unrecorded
+Lumiere DB,series,series-116,Broen,alias,True,True,True,134.57847500000207,5,1,True,True,True,False,11,0,0,True,0702a05
+MDBList,series,series-116,Broen,alias,True,True,True,122.30520000000251,0,,False,False,False,False,1,0,0,True,original-version-unrecorded
+SIMKL,series,series-116,Broen,alias,True,True,True,212.51801299999352,1,1,True,True,True,False,1,0,0,True,original-version-unrecorded
+TVDB,series,series-116,Broen,alias,True,True,True,980.7470979999925,14,2,False,True,True,False,24,0,0,True,original-version-unrecorded
+IMDb,series,series-130,The Walking Dead shows,franchise,True,True,True,1104.5991480000084,7,1,True,True,True,False,15,0,0,True,original-version-unrecorded
+Lumiere DB,series,series-130,The Walking Dead shows,franchise,True,True,True,21.772836999996798,0,,False,False,False,False,1,0,0,True,0702a05
+MDBList,series,series-130,The Walking Dead shows,franchise,True,True,True,131.8171910000092,0,,False,False,False,False,1,0,0,True,original-version-unrecorded
+SIMKL,series,series-130,The Walking Dead shows,franchise,True,True,True,198.17089099998702,0,,False,False,False,False,1,0,0,True,original-version-unrecorded
+TVDB,series,series-130,The Walking Dead shows,franchise,True,True,True,137.15987199998926,0,,False,False,False,False,1,0,0,True,original-version-unrecorded
+TMDB,series,series-130,The Walking Dead shows,franchise,True,True,True,63.61364300001878,0,,False,False,False,False,1,0,0,True,original-version-unrecorded
+Lumiere DB,series,series-138,Bicycle Kingdom of the Silver Turnip,negative,True,True,True,50.24379799999588,0,,False,False,False,False,1,0,0,True,0702a05
+MDBList,series,series-138,Bicycle Kingdom of the Silver Turnip,negative,True,True,True,124.73652599999332,0,,False,False,False,False,1,0,0,True,original-version-unrecorded
+SIMKL,series,series-138,Bicycle Kingdom of the Silver Turnip,negative,True,True,True,158.28265599999577,0,,False,False,False,False,1,0,0,True,original-version-unrecorded
+TVDB,series,series-138,Bicycle Kingdom of the Silver Turnip,negative,True,True,True,180.8554400000139,0,,False,False,False,False,1,0,0,True,original-version-unrecorded
+TMDB,series,series-138,Bicycle Kingdom of the Silver Turnip,negative,True,True,True,62.52243599999929,0,,False,False,False,False,1,0,0,True,original-version-unrecorded
+IMDb,series,series-138,Bicycle Kingdom of the Silver Turnip,negative,True,True,True,419.35755599997356,0,,False,False,False,False,1,0,0,True,original-version-unrecorded
+MDBList,series,series-107,Halt and Catch,partial,False,True,True,444.4827219999861,1,1,True,True,True,False,2,0,0,True,original-version-unrecorded
+SIMKL,series,series-107,Halt and Catch,partial,False,True,True,225.07476399996085,1,1,True,True,True,False,1,0,0,True,original-version-unrecorded
+TVDB,series,series-107,Halt and Catch,partial,False,True,True,238.1845650000032,1,1,True,True,True,False,2,0,0,True,original-version-unrecorded
+TMDB,series,series-107,Halt and Catch,partial,False,True,True,89.0821640000213,1,1,True,True,True,False,2,0,0,True,original-version-unrecorded
+IMDb,series,series-107,Halt and Catch,partial,False,True,True,568.0068900000188,1,1,True,True,True,False,3,0,0,True,original-version-unrecorded
+Lumiere DB,series,series-107,Halt and Catch,partial,False,True,True,133.26230500000383,1,1,True,True,True,False,3,0,0,True,0702a05
+SIMKL,series,series-016,Schitt's Creek,exact,False,True,True,153.27221899997676,1,1,True,True,True,False,1,0,0,True,original-version-unrecorded
+TVDB,series,series-016,Schitt's Creek,exact,False,True,True,277.9224440000253,1,1,True,True,True,False,2,0,0,True,original-version-unrecorded
+TMDB,series,series-016,Schitt's Creek,exact,False,True,True,83.39031300001079,1,1,True,True,True,False,2,0,0,True,original-version-unrecorded
+IMDb,series,series-016,Schitt's Creek,exact,False,True,True,606.6219890000066,1,1,True,True,True,False,3,0,0,True,original-version-unrecorded
+Lumiere DB,series,series-016,Schitt's Creek,exact,False,True,True,114.01119599999947,1,1,True,True,True,False,3,0,0,True,0702a05
+MDBList,series,series-016,Schitt's Creek,exact,False,True,True,466.61604399996577,1,1,True,True,True,False,2,0,0,True,original-version-unrecorded
+TVDB,series,series-024,Money Heist,exact,False,True,True,481.1870919999783,4,1,True,True,True,False,5,0,0,True,original-version-unrecorded
+TMDB,series,series-024,Money Heist,exact,False,True,True,377.85281899996335,5,1,True,True,True,False,6,0,0,True,original-version-unrecorded
+IMDb,series,series-024,Money Heist,exact,False,True,True,545.1049319999875,3,1,True,True,True,False,8,0,0,True,original-version-unrecorded
+Lumiere DB,series,series-024,Money Heist,exact,False,True,True,112.69604700000491,3,1,True,True,True,False,7,0,0,True,0702a05
+MDBList,series,series-024,Money Heist,exact,False,True,True,523.4541969999555,3,1,True,True,True,False,2,0,0,True,original-version-unrecorded
+SIMKL,series,series-024,Money Heist,exact,False,True,True,197.0224140000064,4,1,True,True,True,False,1,0,0,True,original-version-unrecorded
+TMDB,series,series-087,Its Always Sunny in Philadelphia,format,False,True,True,90.61010599997826,1,1,True,True,True,False,2,0,0,True,original-version-unrecorded
+IMDb,series,series-087,Its Always Sunny in Philadelphia,format,False,True,True,568.052090000012,1,1,True,True,True,False,3,0,0,True,original-version-unrecorded
+Lumiere DB,series,series-087,Its Always Sunny in Philadelphia,format,False,True,True,62.846357999995234,1,1,True,True,True,False,3,0,0,True,0702a05
+MDBList,series,series-087,Its Always Sunny in Philadelphia,format,False,True,True,127.13970400003018,0,,False,False,False,False,1,0,0,True,original-version-unrecorded
+SIMKL,series,series-087,Its Always Sunny in Philadelphia,format,False,True,True,205.27550899999915,1,1,True,True,True,False,1,0,0,True,original-version-unrecorded
+TVDB,series,series-087,Its Always Sunny in Philadelphia,format,False,True,True,499.1462380000157,1,1,True,True,True,False,2,0,0,True,original-version-unrecorded
+IMDb,series,series-057,Squid Gmae,typo,False,True,True,572.3316349999513,2,1,True,True,True,False,8,0,0,True,original-version-unrecorded
+Lumiere DB,series,series-057,Squid Gmae,typo,False,True,True,116.13039099999878,1,1,True,True,True,False,3,0,0,True,0702a05
+MDBList,series,series-057,Squid Gmae,typo,False,True,True,150.40775900002336,0,,False,False,False,False,1,0,0,True,original-version-unrecorded
+SIMKL,series,series-057,Squid Gmae,typo,False,True,True,163.72564699995564,0,,False,False,False,False,1,0,0,True,original-version-unrecorded
+TVDB,series,series-057,Squid Gmae,typo,False,True,True,447.8680249999743,2,2,False,True,True,False,4,0,0,True,original-version-unrecorded
+TMDB,series,series-057,Squid Gmae,typo,False,True,True,73.67320299998391,0,,False,False,False,False,1,0,0,True,original-version-unrecorded
+Lumiere DB,series,series-077,Dark 2017,year,False,True,True,149.11412700000074,4,1,True,True,True,False,9,0,0,True,0702a05
+MDBList,series,series-077,Dark 2017,year,False,True,True,133.56451299996115,0,,False,False,False,False,1,0,0,True,original-version-unrecorded
+SIMKL,series,series-077,Dark 2017,year,False,True,True,916.1331729999511,15,1,True,True,True,False,14,0,0,True,original-version-unrecorded
+TVDB,series,series-077,Dark 2017,year,False,True,True,932.9941200000467,1,,False,False,False,False,16,0,0,True,original-version-unrecorded
+TMDB,series,series-077,Dark 2017,year,False,True,True,107.90641499997582,1,,False,False,False,False,2,0,0,True,original-version-unrecorded
+IMDb,series,series-077,Dark 2017,year,False,True,True,579.334170999995,2,1,True,True,True,False,5,0,0,True,original-version-unrecorded
+MDBList,series,series-097,SVU,abbreviation,False,True,True,130.42454600002384,0,,False,False,False,False,1,0,0,True,original-version-unrecorded
+SIMKL,series,series-097,SVU,abbreviation,False,True,True,211.39624600001844,3,1,True,True,True,False,2,1,0,True,original-version-unrecorded
+TVDB,series,series-097,SVU,abbreviation,False,True,True,729.0501630000072,1,,False,False,False,True,22,0,0,True,original-version-unrecorded
+TMDB,series,series-097,SVU,abbreviation,False,True,True,295.89248099998804,4,1,True,True,True,False,5,0,0,True,original-version-unrecorded
+IMDb,series,series-097,SVU,abbreviation,False,True,True,346.4433909999789,1,1,True,True,True,False,3,0,0,True,original-version-unrecorded
+Lumiere DB,series,series-097,SVU,abbreviation,False,True,True,105.7048350000041,1,1,True,True,True,False,3,0,0,True,0702a05
+SIMKL,series,series-030,Spiral,exact,False,True,True,649.4405350000015,13,1,True,True,True,False,10,0,0,True,original-version-unrecorded
+TVDB,series,series-030,Spiral,exact,False,True,True,612.9608509999816,9,,False,False,False,True,17,0,0,True,original-version-unrecorded
+TMDB,series,series-030,Spiral,exact,False,True,True,721.8143639999907,13,1,True,True,True,False,19,0,0,True,original-version-unrecorded
+IMDb,series,series-030,Spiral,exact,False,True,True,663.3480470000068,1,1,True,True,True,False,4,0,0,True,original-version-unrecorded
+Lumiere DB,series,series-030,Spiral,exact,False,True,True,134.51292000000103,6,1,True,True,True,False,13,0,0,True,0702a05
+MDBList,series,series-030,Spiral,exact,False,True,True,493.5820030000177,10,1,True,True,True,False,2,0,0,True,original-version-unrecorded
+TVDB,series,series-017,It's Always Sunny in Philadelphia,exact,False,True,True,577.7395939999999,1,1,True,True,True,False,2,0,0,True,original-version-unrecorded
+TMDB,series,series-017,It's Always Sunny in Philadelphia,exact,False,True,True,256.29230000000007,1,1,True,True,True,False,1,0,0,True,original-version-unrecorded
+IMDb,series,series-017,It's Always Sunny in Philadelphia,exact,False,True,True,796.9991420000006,2,1,True,True,True,False,4,0,0,True,original-version-unrecorded
+Lumiere DB,series,series-017,It's Always Sunny in Philadelphia,exact,False,True,True,40.39532400000462,1,1,True,True,True,False,2,0,0,True,0702a05
+MDBList,series,series-017,It's Always Sunny in Philadelphia,exact,False,True,True,597.7162769999995,1,1,True,True,True,False,2,0,0,True,original-version-unrecorded
+SIMKL,series,series-017,It's Always Sunny in Philadelphia,exact,False,True,True,317.99128799999926,1,1,True,True,True,False,1,0,0,True,original-version-unrecorded
+TMDB,series,series-050,Avatar: The Last Airbnder,typo,False,True,True,74.02449699999852,0,,False,False,False,False,1,0,0,True,original-version-unrecorded
+IMDb,series,series-050,Avatar: The Last Airbnder,typo,False,True,True,728.2027070000004,2,1,True,True,True,False,6,0,0,True,original-version-unrecorded
+Lumiere DB,series,series-050,Avatar: The Last Airbnder,typo,False,True,True,165.64388999999937,2,1,True,True,True,False,5,0,0,True,0702a05
+MDBList,series,series-050,Avatar: The Last Airbnder,typo,False,True,True,155.25905299999795,0,,False,False,False,False,1,0,0,True,original-version-unrecorded
+SIMKL,series,series-050,Avatar: The Last Airbnder,typo,False,True,True,214.70954899999924,0,,False,False,False,False,1,0,0,True,original-version-unrecorded
+TVDB,series,series-050,Avatar: The Last Airbnder,typo,False,True,True,587.1113699999987,2,1,True,True,True,False,4,0,0,True,original-version-unrecorded
+IMDb,series,series-072,Doctor Who (1963),year,False,True,True,1176.2355449999995,3,2,False,True,True,False,7,0,0,True,original-version-unrecorded
+Lumiere DB,series,series-072,Doctor Who (1963),year,False,True,True,109.6791630000007,1,1,True,True,True,False,3,0,0,True,0702a05
+MDBList,series,series-072,Doctor Who (1963),year,False,True,True,134.3694600000017,0,,False,False,False,False,1,0,0,True,original-version-unrecorded
+SIMKL,series,series-072,Doctor Who (1963),year,False,True,True,172.64166799999657,1,1,True,True,True,False,1,0,0,True,original-version-unrecorded
+TVDB,series,series-072,Doctor Who (1963),year,False,True,True,321.9412779999984,1,1,True,True,True,False,2,0,0,True,original-version-unrecorded
+TMDB,series,series-072,Doctor Who (1963),year,False,True,True,120.12551200000598,1,1,True,True,True,False,2,0,0,True,original-version-unrecorded
