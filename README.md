@@ -33,3 +33,5 @@ This is one balanced block, not the full proposed 1,680-search corpus. Caches we
 AIOMetadata is created by [cedya77](https://github.com/cedya77/aiometadata). This is an independent community test, not an official benchmark.
 
 The timing selector also offers a common-success subset: the same queries where every provider found the target at the chosen cutoff. This is a matched descriptive comparison, but excludes harder queries that some providers missed. Any-position scoring checks only the saved first response, whose result limit differs by provider.
+
+Chart bars, category cells, request segments, field percentages and timing dots open accessible detail dialogs. Query drill-downs retain a back link to the selected chart data. Technical request and field panels are collapsed by default; filter scope is stated next to each comparison.
