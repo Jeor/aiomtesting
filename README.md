@@ -35,3 +35,5 @@ AIOMetadata is created by [cedya77](https://github.com/cedya77/aiometadata). Thi
 The timing selector also offers a common-success subset: the same queries where every provider found the target at the chosen cutoff. This is a matched descriptive comparison, but excludes harder queries that some providers missed. Any-position scoring checks only the saved first response, whose result limit differs by provider.
 
 Chart bars, category cells, request segments, field percentages and timing dots open accessible detail dialogs. Query drill-downs retain a back link to the selected chart data. Technical request and field panels are collapsed by default; filter scope is stated next to each comparison.
+
+The search-coverage disclosure lists all nine categories, their counts and actual examples. Four year-qualified queries were tested, but no paired Goosebumps remake test was run. The explorer offers side-by-side provider comparisons or individual searches, intended-target details, category filtering, and 6/12/24/all rows per page.
