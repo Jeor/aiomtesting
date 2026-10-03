@@ -24,10 +24,4 @@ export function timingRows(rows,s){
  return rows;
 }
 export function combine(old,fresh){return [...old.observations,...fresh.observations.map(r=>({...r,provider:'lumiere-0702a05'}))].map((r,index)=>({...r,index}));}
-export function latencyBins(rows){
- if(!rows.length)return [];
- const max=Math.max(...rows.map(r=>r.ms));
- const width=Math.max(250,Math.ceil((max+0.001)/12/250)*250);
- return Array.from({length:Math.floor(max/width)+1},(_,i)=>({from:i*width,to:(i+1)*width,rows:rows.filter(r=>r.ms>=i*width&&r.ms<(i+1)*width)}));
-}
 export function heatGlyph(hits,total){if(!total)return '—';const rate=hits/total;return rate===0?'·':rate<=.25?'░':rate<=.5?'▒':rate<1?'▓':'█';}
